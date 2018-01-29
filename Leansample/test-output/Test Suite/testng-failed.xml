@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test Suite]">
+  <parameter name="browserToTest" value="Internetexplorer"/>
+  <test name="Test4(failed)">
+    <parameter name="browserToTest" value="Internetexplorer"/>
+    <classes>
+      <class name="com.leanftproject.ts_Banking">
+        <methods>
+          <include name="tc_verifyOpen"/>
+          <include name="cleanupSessions"/>
+          <include name="cleanupSessions"/>
+          <include name="checkForVerificationError"/>
+          <include name="checkForVerificationError"/>
+          <include name="readRunProp"/>
+          <include name="tearDownSuite"/>
+          <include name="getSelenium"/>
+          <include name="setTestContext"/>
+          <include name="getSelenium"/>
+          <include name="setTestContext"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.leanftproject.ts_Banking -->
+    </classes>
+  </test> <!-- Test4(failed) -->
+</suite> <!-- Failed suite [Test Suite] -->

@@ -1,0 +1,15 @@
+<DataTables xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="file://C:/VTAF_MobileCenter/VTAF/xsd/DataTables.xsd" >
+	<Table name="dt_TransferMoney">
+		<Header>
+			<Column name="userName" type="String" />
+			<Column name="password" type="String" />
+		</Header>
+		<Row>
+			<Value>test</Value>
+			<Value>test</Value>
+		</Row>			
+
+</Table>
+
+</DataTables>

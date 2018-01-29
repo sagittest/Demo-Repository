@@ -1,0 +1,10 @@
+14:24:47,449 INFO  com.thoughtworks.leanft.LeanFTTestNgHelperVir: Propery file location : C:\Users\CMDVTAFRND02\Desktop\LeanFT\SampleProject\LeanFTProject\gen1\seleniumwebdriver\LeanFTProject
+14:24:47,453 INFO  com.thoughtworks.leanft.LeanFTTestNgHelperVir: Retry Count : 12
+14:24:47,453 INFO  com.thoughtworks.leanft.LeanFTTestNgHelperVir: Timeout Period : 30000
+14:24:47,460 INFO  com.thoughtworks.leanft.LeanFTTestNgHelperVir: Execution Browser : googlechrome
+14:24:47,681 INFO  com.thoughtworks.leanft.LeanFTTestNgHelperVir: chromedriver_win browser session cleaned successfully
+14:24:47,816 INFO  com.thoughtworks.leanft.LeanFTTestNgHelperVir: IEDriverServer(x64) browser session cleaned successfully
+14:24:47,829 INFO  com.thoughtworks.leanft.LeanFTTestNgHelperVir: Starting a new selenium webdriver session.
+14:24:52,949 INFO  com.thoughtworks.leanft.LeanFTTestNgHelperVir: Started the selenium webdriver session.
+14:24:52,949 INFO  com.thoughtworks.leanft.LeanFTTestNgHelperVir: Executing the test case : ts_Banking.testwebservice
+14:24:53,308 INFO  com.thoughtworks.leanft.LeanFTTestNgHelperVir: Starting the test case..

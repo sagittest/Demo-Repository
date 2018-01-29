@@ -1,0 +1,21 @@
+<suite name="Test Suite" >
+	<test name="Test1">
+	<parameter name="browserToTest" value="googlechrome"/>	
+		<classes>
+			<class name =  "com.leanftproject.ts_Banking"/>
+			<methods>
+          <include name="tc_verifyType"/>
+        </methods>
+			</classes>
+	</test>	
+	
+	<test name="Test4">
+	<parameter name="browserToTest" value="Internetexplorer"/>	
+		<classes>
+			<class name =  "com.leanftproject.ts_Banking"/>
+			<methods>
+          	<include name="tc_verifyOpen"/>
+        	</methods>
+			</classes>
+	</test>		
+</suite>
